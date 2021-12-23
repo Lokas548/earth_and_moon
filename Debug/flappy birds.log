@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (flappy birds.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Earth and Moon.cpp
+C:\Users\Acer\Desktop\Earth and Moon\flappy birds\Earth and Moon.cpp(35,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Earth and Moon\flappy birds\Earth and Moon.cpp(35,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Earth and Moon\flappy birds\Earth and Moon.cpp(41,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Earth and Moon\flappy birds\Earth and Moon.cpp(43,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Earth and Moon\flappy birds\Earth and Moon.cpp(43,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Earth and Moon\flappy birds\Earth and Moon.cpp(57,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Acer\Desktop\Earth and Moon\flappy birds\Earth and Moon.cpp(58,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Acer\Desktop\Earth and Moon\flappy birds\Earth and Moon.cpp(59,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Earth and Moon\flappy birds\Earth and Moon.cpp(59,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  flappy birds.vcxproj -> C:\Users\Acer\Desktop\Earth and Moon\Debug\Earth and Moon.exe
